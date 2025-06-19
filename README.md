@@ -22,7 +22,7 @@ Tecnologías utilizadas:
 ## 🌐 Enlace en línea
 
 Podés ver el sitio funcionando acá:  
-👉 [https://luiciano-matiz.github.io]
+👉 [https://luciano-matiz.github.io]
 ---
 
 ## 📬 Contacto
